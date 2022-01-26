@@ -27,12 +27,15 @@
 <h2 align="center"><i>⚙ GitHub Analytics:</i></h2>
 <p align="center">
   <a href="https://github.com/Muhammadjunaid20"><span>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muhammadjunaid20&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Muhammadjunaid20&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saadfareed&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=radical/>
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammadjunaid20&theme=dracula" />
     </span></a>
 </p>
 
+<!--     https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saadfareed&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=radical
+     -->
+    
+    
 <p align="center">
   <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammadjunaid20&theme=radical&show_icons=true&locale=en&layout=demo&hide_border=true" />
 </p>
