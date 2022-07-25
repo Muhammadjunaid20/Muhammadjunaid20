@@ -3,7 +3,7 @@
     <h1> Hi there, I'm Muhammad Junaid👋<a href="#"></h1>
   </div>
 <p align="center">
-  <a href="https://github.com/Muhammadjunaid20"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Graphic%20Designer;Learning%20Flutter%20App%20Development;Always%20learning%20new%20Technology&center=true&width=500&height=50"></a>
+  <a href="https://github.com/Muhammadjunaid20"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Graphic%20Designer;Learning%20Flutter%20App%20Development;Always%20learning%20new%20Technology&center=true&width=500&height=50"></a>
   
 </p>
 <h1 align="center"> Connect with me: </h1>
